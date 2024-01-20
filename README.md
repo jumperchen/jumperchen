@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/github-languages-pie-chart.svg"  align="right"/>
 </a> 
 
-<h3>About Me:</h3>
+<h3>&#x1F9D1;&#x200D About Me:</h3>
 
 <ul>
     <li>💻 As a Full Stack Engineer, I have a strong passion for coding and a keen interest in Open Source development.</li>
@@ -50,7 +50,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/bash/bash.png"></code>
 <br/>
 
-### Frameworks/Platforms:
+### &#x1F3D7;&#xFE0F; Frameworks/Platforms:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/linux/linux.png"></code>
@@ -60,7 +60,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/spring/spring.png"></code>
 <br/>  
 
-### Tools:
+### &#x1F6E0;&#xFE0F; Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/github/github.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/maven/maven.png"></code>
