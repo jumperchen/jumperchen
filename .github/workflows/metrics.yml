@@ -1,0 +1,23 @@
+name: Profile metrics
+on:
+  # Runs daily at 02:00 (Asia/Taipei)
+  schedule: [{cron: "0 18 * * *"}]
+  workflow_dispatch:
+  push: {branches: [main]}
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Requires a PAT (no scopes needed for public data), stored as the METRICS_TOKEN repo secret
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jumperchen
+          filename: assets/github-metrics.svg
+          config_timezone: Asia/Taipei
+          base: header, activity, community, repositories
+          commits_authoring: jumperchen, jumperchen@potix.com, jumperchen@gmail.com

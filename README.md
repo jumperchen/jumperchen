@@ -10,6 +10,9 @@
   <a href="https://stackoverflow.com/users/510515">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/510515?color=orange&label=reputation&logo=stackoverflow">
   </a>
+  <a href="https://www.linkedin.com/in/jumperchen/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jumperchen-0A66C2?logo=linkedin&logoColor=white">
+  </a>
   <a href="https://github.com/jumperchen?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jumperchen?style=flat&logo=github">
   </a>
@@ -22,7 +25,8 @@
 <h3>&#x1F9D1;&#x200D About Me:</h3>
 
 <ul>
-    <li>💻 As a Full Stack Engineer, I have a strong passion for coding and a keen interest in Open Source development.</li>
+    <li>💻 Engineering leader who still ships code — with a strong passion for coding and a keen interest in Open Source development.</li>
+    <li>🤖 Building AI systems in production — RAG, Agentic AI, and Text-to-SQL — with research on LLM fine-tuning (M.Sc. in AI @ NTUT).</li>
     <li>🌐 I love exploring new technologies and applying them to create efficient and scalable solutions.</li>
     <li>🤝 I'm enthusiastic about collaborating on Open Source projects and contributing to the community.</li>
     <li>📚 Constantly learning and evolving to stay abreast of the latest trends in software engineering.</li>
@@ -30,13 +34,17 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jumperchen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jumperchen"></td>
+    <td><img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/github-metrics.svg" alt="jumperchen"></td>
     <td><img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/leetcode-total-info-circle.svg"  alt="jumperchen">
     </td>
   </tr>
 </table>
 
 
+
+### 📄 Publications
+
+- W.-H. Chen and Y.-R. Chien, "**HyMIR: A BI-Inspired Hybrid Intermediate Representation for Schema-Agnostic Text-to-SQL**," *IEEE Access*, 2026. doi: [10.1109/ACCESS.2026.3712824](https://doi.org/10.1109/ACCESS.2026.3712824)
 
 ### 👨🏻‍💻 Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/java/java.png"></code>
