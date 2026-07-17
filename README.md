@@ -19,7 +19,7 @@
 </p>
 
 <a href="#jumperchen-title">
-  <img src="https://github-readme-stats-ruby-tau-69.vercel.app/api/top-langs/?username=jumperchen&layout=donut&theme=buefy&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8" align="right"/>
+  <img src="https://github-readme-stats-ruby-tau-69.vercel.app/api/top-langs/?username=jumperchen&layout=donut&theme=buefy&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=ntut-aiot" align="right"/>
 </a> 
 
 <h3>&#x1F9D1;&#x200D About Me:</h3>
