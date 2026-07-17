@@ -19,7 +19,7 @@
 </p>
 
 <a href="#jumperchen-title">
-  <img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/github-languages-pie-chart.svg"  align="right"/>
+  <img src="https://github-readme-stats-ruby-tau-69.vercel.app/api/top-langs/?username=jumperchen&layout=donut&theme=buefy&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8" align="right"/>
 </a> 
 
 <h3>&#x1F9D1;&#x200D About Me:</h3>
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/github-metrics.svg" alt="jumperchen"></td>
+    <td><img src="https://github-readme-stats-ruby-tau-69.vercel.app/api?username=jumperchen&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=contribs" alt="jumperchen"></td>
     <td><img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/leetcode-total-info-circle.svg"  alt="jumperchen">
     </td>
   </tr>
@@ -58,7 +58,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/bash/bash.png"></code>
 <br/>
 
-### &#x1F3D7;&#xFE0F; Frameworks/Platforms:
+### 🏗️ Frameworks/Platforms:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/linux/linux.png"></code>
@@ -68,7 +68,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/spring/spring.png"></code>
 <br/>  
 
-### &#x1F6E0;&#xFE0F; Tools:
+### 🛠️ Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/github/github.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/maven/maven.png"></code>
