@@ -29,7 +29,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: faust
           plugin_languages_skipped: ntut-aiot
-          plugin_languages_indepth_custom: zkoss/zk, zkoss/zkspreadsheet
+          plugin_languages_indepth_custom: zkoss/zk, zkoss/zkspreadsheet, axyra-dev/axyra-sheets, axyra-dev/axyra-docs
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
           commits_authoring: jumperchen, jumperchen@potix.com, jumperchen@gmail.com
