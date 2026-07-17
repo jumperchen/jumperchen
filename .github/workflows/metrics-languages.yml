@@ -3,7 +3,10 @@ on:
   # Runs daily at 02:00 (Asia/Taipei)
   schedule: [{cron: "0 18 * * *"}]
   workflow_dispatch:
-  push: {branches: [main]}
+
+concurrency:
+  group: language-metrics
+  cancel-in-progress: true
 
 permissions:
   contents: write
