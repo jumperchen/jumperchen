@@ -19,7 +19,7 @@
 </p>
 
 <a href="#jumperchen-title">
-  <img src="https://github-readme-stats-ruby-tau-69.vercel.app/api/top-langs/?username=jumperchen&layout=donut&theme=buefy&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=ntut-aiot" align="right"/>
+  <img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/github-languages.svg" align="right"/>
 </a> 
 
 <h3>&#x1F9D1;&#x200D About Me:</h3>
@@ -76,5 +76,4 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/intellij-idea/intellij-idea.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/a4e02bbedb1c786b190dc1c1d2267dcb8e58dceb/topics/visual-studio-code/visual-studio-code.png"></code>
 
-<img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/github-languages-sledge.svg" align="left"/>
 <img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/github-total-bicycle.svg">
