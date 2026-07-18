@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-ruby-tau-69.vercel.app/api?username=jumperchen&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=contribs" alt="jumperchen"></td>
+    <td><img src="https://github-readme-stats-ruby-tau-69.vercel.app/api?username=jumperchen&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=contribs&v=2" alt="jumperchen"></td>
     <td><img src="https://raw.githubusercontent.com/jumperchen/jumperchen/main/assets/leetcode-total-info-circle.svg"  alt="jumperchen">
     </td>
   </tr>
